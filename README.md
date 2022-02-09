@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, My name is Acearid
+I make random projects just to learn code
 
-<!--
-**Acearid/acearid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a discordbot. And a video game 
+- 🌱 I’m currently learning Everything 
+- 📫 How to reach me: acearidstream@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/acearid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/acearid)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acearid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=acearid&show_icons=true)  
+
+
