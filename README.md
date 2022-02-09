@@ -1,6 +1,7 @@
+[![Twitch Status](https://img.shields.io/twitch/status/acearid?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/acearid)
+
 ### Hi there 👋, My name is Acearid
 I make random projects just to learn code
-[![Twitch Status](https://img.shields.io/twitch/status/acearid?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/acearid)
 
 Skills: Python / JS / HTML / CSS
 
