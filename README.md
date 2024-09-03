@@ -1,6 +1,6 @@
-[![Twitch Status](https://img.shields.io/twitch/status/acearid?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/acearid)
+[![Twitch Status](https://img.shields.io/twitch/status/acearid?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/p3gasi)
 
-### Hi there 👋, My name is Acearid
+### Hi there 👋, My name is Noel
 I make random projects just to learn code
 
 Skills: Python / JS / HTML / CSS
