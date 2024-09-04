@@ -1,3 +1,4 @@
+Welcome to my GitHub profile!
 [![Twitch Status](https://img.shields.io/twitch/status/p3gasi?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/p3gasi)
 
 ### Hi there 👋, My name is Noel
